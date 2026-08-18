@@ -1,0 +1,15 @@
+html::before {
+  content: 'kamsi ♥ The Web';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  font-family: monospace;
+  opacity: 1;
+  background: rebeccapurple;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 15px;
+}
